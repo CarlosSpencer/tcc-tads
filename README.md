@@ -1,2 +1,11 @@
-# tcc-tads
- TCC TADS 2019 - IFSUL Campus Camaquã
+# TCC TADS 2019 - IFSUL Campus Camaquã
+## Autor: Carlos Henrique Jochims Spencer de Freitas
+
+## RESUMO
+Analisando-se o cenário atual do mercado de Lan House’s, observa-se que os softwares de gestão para este ramo tornaram-se escassos e/ou obsoletos em atualizações. Realizando-se  consultas em sites que listam softwares para este ramo, poucos programas foram encontrados e aqueles que continuam a ser atualizados e dão suporte aos proprietários, são caros, e possuem uma interface de pouca usabilidade, além de muitos não atenderem a tudo que o empresário necessita em um sistema. Neste sentido, este trabalho trata da modelagem e diagramação de um sistema de gestão desktop, para este estilo de empreendimento, baseando-se em informações obtidas através da realização de consultas com diversos empreendedores deste ramo, investigando as necessidades e utilizando o estudo de caso de minha própria empresa, onde posso estar, diretamente, analisando e estruturando a implementação deste projeto. Almeja-se posteriormente, através da realização deste projeto, dar continuidade a este projeto com a criação de um sistema que facilite e agilize o dia-a-dia de quem atua neste modelo de empreendimento e que precisa de um sistema de gestão rápido, eficaz e consistente.
+Palavras-chave: LAN HOUSE; MODELAGEM; DIAGRAMAÇÃO; SISTEMA; BANCO DE DADOS.
+
+
+## ABSTRACT
+Analyzing the current scenario of the Lan House's market, it is observed that management software for this branch has become scarce and / or obsolete in updates. By performing searches on sites that list software for this branch, few programs have been found and those that continue to be updated and support the owners, are expensive, have an interface of little usability, and many do not attend to everything that the businessman needs in a system. In this sense, this work deals with the modeling and diagramming of a desktop management system, for this style of enterprise, based on information obtained through the conduction of researches with several entrepreneurs of this branch, investigating the needs and using the case study of my own company, where I can be directly analyzing and structuring the implementation of this project. Through this project, we hope to continue this project with the creation of a system that facilitates and accelerates the day-to-day of those who work in this business model and who need a fast, effective management system and consistent.
+Keywords: LAN HOUSE; MODELING; DIAGRAMAÇÃO; SYSTEM; DATABASE.
