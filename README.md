@@ -1,4 +1,5 @@
-# TCC TADS 2019 - IFSUL Campus Camaquã
+# Modelagem e Diagramação de Sistema de Gestão para Lan House
+## TCC TADS 2019 - IFSUL Campus Camaquã
 ## Autor: Carlos Henrique Jochims Spencer de Freitas
 
 ## RESUMO
